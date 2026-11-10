@@ -1,6 +1,6 @@
 # AD Security Audit Toolkit
 
-Single-script Active Directory security auditor. One file, one run — finds stale accounts, privilege escalation paths, group hygiene issues, password policy weaknesses, and maps the full attack surface. All findings exported to timestamped CSVs with severity ratings.
+Single-script Active Directory security auditor. One file, one run: finds stale accounts, privilege-escalation paths, group hygiene issues, password-policy weaknesses, and maps the full attack surface. Exports all findings to timestamped CSVs with severity ratings.
 
 ## Quick Start
 
